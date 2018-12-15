@@ -2,5 +2,10 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+...cpp
+int main()
+{
+std::cout << "Hello, GitHub!";
+}
+...
 Use the left arrow to go back!
